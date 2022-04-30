@@ -1,6 +1,3 @@
-// Tic Tac Toe AI with Minimax Algorithm
-// The Coding Train / Daniel Shiffman
-
 function bestMove() {
     // AI to make its turn
     let bestScore = -Infinity;
