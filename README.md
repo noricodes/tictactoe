@@ -1,3 +1,3 @@
-#TicTacToe Ai
+# TicTacToe Ai
 
-(Play with me!)[]
+[Play with me!](https://noricodes.github.io/tictactoe/)
