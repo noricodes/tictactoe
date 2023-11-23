@@ -4,29 +4,41 @@ body {
     padding: 0;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 header {
     background-color: #333;
     color: white;
-    text-align: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 section {
-    margin: 20px;
+    padding: 40px 0;
 }
 
 .project {
+    background-color: #f9f9f9;
     border: 1px solid #ddd;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
 }
 
-a {
+.project h3 {
+    color: #333;
+}
+
+.project-links a {
     margin-right: 10px;
     text-decoration: none;
     color: #333;
 }
 
-a:hover {
+.project-links a:hover {
     color: #555;
 }
+
+
